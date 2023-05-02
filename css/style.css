@@ -160,3 +160,9 @@ a {
 .sub div .btn {
   border: 2px solid #e5e7eb;
 }
+
+footer {
+  padding: 40px;
+  color: #e5e7eb;
+  text-align: center;
+}
