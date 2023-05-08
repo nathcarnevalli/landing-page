@@ -138,8 +138,7 @@ a {
   background-color: #2a61b2;
 }
 
-.one {
-  background-image: url('../assets/images/icons8-melting-ice-cream-80.png');
+.portifolio {
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -194,4 +193,12 @@ footer {
   padding: 40px;
   color: #e5e7eb;
   text-align: center;
+}
+
+.one {
+  background-image: url('../assets/images/icons8-melting-ice-cream-80.png');
+}
+
+.two {
+  background-image: url('../assets/images/icons8-battle-100.png');
 }
