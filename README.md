@@ -11,4 +11,9 @@ Live link: https://nathcarnevalli.github.io/landing-page/index.html
   <li><a target="_blank" href="https://icons8.com/icon/LvRSJTVPhzox/kawaii-ice-cream">Kawaii Ice Cream</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></li>
   <li><a target="_blank" href="https://icons8.com/icon/M4ppv06Qy3Kt/cat">Cat</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></li>
   <li><a target="_blank" href="https://icons8.com/icon/esynMOoCA22o/battle">Battle</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></li>
+  <li><a target="_blank" href="https://icons8.com/icon/11737/pencil">Pencil</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></li>
+  <li><a target="_blank" href="https://icons8.com/icon/6gwMy8qlY6nG/calculator">Calculator</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></li>
+  <li><a target="_blank" href="https://icons8.com/icon/40886/test">Form</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></li>
+  <li><a target="_blank" href="https://icons8.com/icon/42763/book">Book</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></li>
+  <li><a target="_blank" href="https://icons8.com/icon/121371/cat">Cat</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></li>
 </ul>
